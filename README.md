@@ -124,7 +124,7 @@ graph TB
         direction TB
         ADC[📊 10-bit ADC<br/>Analog Input]
         CPU[⚙️ Control Logic<br/>Signal Processing]
-        COMM[📡 Communication<br/>SPI | I2C | PWM]
+        COMM[📡 Communication<br/>SPI / I2C / PWM]
     end
     
     subgraph Output["OUTPUT LAYER"]

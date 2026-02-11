@@ -8,7 +8,6 @@ This repository is a personal copy of a group project created for portfolio and 
 
 ## Quick Links
 - **Repository Status**: Portfolio/Reference Project
-- **License**: [Add license if applicable]
 - **Contributors**: Group project (names available upon request for academic verification)
 - **Development Period**: [Add timeframe if desired]
 
@@ -35,8 +34,6 @@ This repository is a personal copy of a group project created for portfolio and 
 18. [Physical Model & Wiring](#physical-model)
 19. [Conclusion](#conclusion)
 20. [Acknowledgments](#acknowledgments)
-21. [License](#license)
-22. [Contact](#contact)
 
 ---
 
@@ -1482,21 +1479,6 @@ This project was completed as a **group effort** combining expertise in embedded
 - [FastLED Library Documentation](https://fastled.io/)
 - [Adafruit Learning System](https://learn.adafruit.com/)
 - Clinical research on delirium prevention and circadian rhythm regulation
-
----
-
-## License
-
-[Add your license information here - e.g., MIT, GPL, Apache 2.0, or "All Rights Reserved" for portfolio purposes]
-
----
-
-## Contact
-
-For questions, collaboration opportunities, or academic verification of this project:
-- **Portfolio**: [Add your portfolio link]
-- **LinkedIn**: [Add your LinkedIn]
-- **Email**: [Add your email]
 
 ---
 
